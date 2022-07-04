@@ -20,7 +20,7 @@ include device/xiaomi/msm8998-common/BoardConfigCommon.mk
 DEVICE_PATH := device/xiaomi/sagit
 
 # Kernel
-TARGET_KERNEL_CONFIG := sagit_defconfig
+TARGET_KERNEL_CONFIG += vendor/xiaomi/sagit.config
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := sagit
