@@ -16,8 +16,3 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/lineage_sagit.mk
-
-COMMON_LUNCH_CHOICES := \
-    lineage_sagit-user \
-    lineage_sagit-userdebug \
-    lineage_sagit-eng
