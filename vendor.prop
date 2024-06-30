@@ -1,2 +1,3 @@
 # Camera
 persist.vendor.dualcam.lpm.enable=1
+vendor.camera.aux.packageexcludelist=org.telegram.messenger,org.thunderdog.challegram,us.zoom.videomeetings
